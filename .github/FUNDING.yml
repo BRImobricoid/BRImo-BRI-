@@ -12,3 +12,4 @@ otechie: # Replace with a single Otechie username
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 custom  : # Ganti dengan maksimal 4 URL sponsor khusus, misalnya ['link1', 'link2']
 https://BRI.co.id/store/apps/details?id=id.co.bri.brimo
+https://apxbankbrlbifast.herokuapp.com/id/
